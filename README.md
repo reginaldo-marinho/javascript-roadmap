@@ -10,10 +10,24 @@
      - primitivos
    - Operadores
      - Atribuição
+     - Incremento e Decremento
      - Aritiméticos
      - Comparação
      - Tenário
-     - Lógico
+   - Decisões
+     - if
+     - else
+     - if else
+     - swith
+   - Tratamento de Erros
+   - Funções
+     - Estrutura das funções
+     - argumentos
+     - return
+     - =>
+     - Modo Estrito "use strict"
+     - Callbacks
+     - IIFES
      
    
        
