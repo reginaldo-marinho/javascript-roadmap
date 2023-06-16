@@ -21,10 +21,19 @@
      - swith
    - Tratamento de Erros
    - Funções
+     - function
      - Estrutura das funções
-     - argumentos
      - return
+     - criação de funções
+       - funções nomeadas
+       - funções anônimas
+       - o construtor Function 
+       - diferença entre as três criações 
+     - função existe? operador typeof window.noFunc
+     - parametros default
      - =>
+     - get
+     - set
      - Modo Estrito "use strict"
      - Callbacks
      - IIFES
