@@ -2,10 +2,17 @@
 
 1. História do Javascript
 2. Core
+   - Comentarios
    - Variaveis
      - var
      - let
      - const
+     - undefined
+     - null
+     - escopo da variavel
+     - hosting
+     - variaveis globais
+     - 
    - Tipos
      - primitivos
    - Operadores
