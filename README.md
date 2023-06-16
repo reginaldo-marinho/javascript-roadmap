@@ -1,20 +1,30 @@
 ## Roadmap Javascript
+1. Ferramentas
+   - Desenvolvimento
+      - Visual Studio Code
+      - Codepen
+      - jsfiddle
+   - Minificador
 
-1. História do Javascript
-2. Core
+3. História do Javascript
+4. Core
    - Comentarios
    - Variaveis
      - var
      - let
      - const
-     - undefined
-     - null
      - escopo da variavel
      - hosting
      - variaveis globais
-     - 
    - Tipos
      - primitivos
+       - boolean
+       - null
+       - undefined
+       - number
+       - string
+       - symbol
+     - Objeto
    - Operadores
      - Atribuição
      - Incremento e Decremento
@@ -43,7 +53,6 @@
      - set
      - Modo Estrito "use strict"
      - Callbacks
-     - IIFES
-     
-   
-       
+     - IIFES   
+
+99. Memória
