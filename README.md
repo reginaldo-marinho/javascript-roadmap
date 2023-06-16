@@ -54,5 +54,6 @@
      - Modo Estrito "use strict"
      - Callbacks
      - IIFES   
-
+4. JSON
+10. Devtools e Debug
 99. Memória
