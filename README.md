@@ -22,6 +22,7 @@
        - null
        - undefined
        - number
+         - Separador Numérico 
        - string
        - symbol
      - Objeto
