@@ -25,12 +25,15 @@
        - string
        - symbol
      - Objeto
+   - Valores Primitivos e Valores por Referência 
    - Operadores
      - Atribuição
+     - Atribuição Lógicos
      - Incremento e Decremento
      - Aritiméticos
      - Comparação
      - Tenário
+     - Coalecencia 
    - Decisões
      - if
      - else
@@ -38,6 +41,7 @@
      - swith
    - Tratamento de Erros
    - Funções
+   - primeira classe
      - function
      - Estrutura das funções
      - return
@@ -46,8 +50,11 @@
        - funções anônimas
        - o construtor Function 
        - diferença entre as três criações 
-     - função existe? operador typeof window.noFunc
+     - função existe? operador typeof
+     - Recursivas 
+     - window.noFunc
      - parametros default
+     - Closures 
      - =>
      - get
      - set
