@@ -39,9 +39,18 @@
      - else
      - if else
      - swith
+   - Objetos
+     - Métodos de objetos
+     - this
+     - construtor
+     - protótipos
+     - herança
+     - globalThis
+     - Properties 
+     - delete
    - Tratamento de Erros
    - Funções
-   - primeira classe
+     - primeira classe
      - function
      - Estrutura das funções
      - return
