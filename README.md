@@ -26,6 +26,12 @@
        - string
        - symbol
      - Objeto
+   - Valores avaliados como falso
+     - false
+     - undefined
+     - null
+     - NaN
+     - String Vazia
    - Valores Primitivos e Valores por Referência 
    - Operadores
      - Atribuição
@@ -96,7 +102,9 @@
      - with
    - Tratamento de Erros
      - try catch
-     - finally 
+     - finally
+     - throw
+     - Objetos de erros
    - Funções
      - primeira classe
      - function
