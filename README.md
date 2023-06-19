@@ -127,5 +127,36 @@
      - Callbacks
      - IIFES   
 4. JSON
+5. DOM
+   - Eventos
+     - eventListener
+     - envento on
+     - lista de eventos
+       - Foco
+         - focus
+         - blur
+       - formularios
+         - reset
+         - submit
+       - Mouse
+         - click
+         - contextmenu
+         - dblclick
+         - mousedown
+         - mouseleave
+         - mousemove
+         - mouseover
+         - mouseup
+         - pointerlockchange
+         - pointerlockerror
+         - select
+         - wheel
+      - Teclado
+        - keydown
+        - keypress
+        - keyup
+      - Referencia todos os Eventos  
+    
+     
 10. Devtools e Debug
 99. Memória
