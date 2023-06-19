@@ -1,10 +1,11 @@
 ## Roadmap Javascript
 1. Ferramentas
    - Desenvolvimento
-      - Visual Studio Code
-      - Codepen
-      - jsfiddle
+      - [Visual Studio Code](https://code.visualstudio.com/)
+      - [Codepen](https://codepen.io/)
+      - [jsfiddle](https://jsfiddle.net/)
    - Minificador
+     - [minify-js](https://minify-js.com/)
 
 3. História do Javascript
 4. Core
