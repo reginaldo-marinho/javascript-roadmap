@@ -9,18 +9,18 @@
 
 3. História do Javascript
 4. Core
-   - Comentarios
+   - [Comentários](https://www.w3schools.com/js/js_comments.asp)
    - Variaveis
-     - var
-     - let
-     - const
+     - [var](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var)
+     - [let](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/let)
+     - [const](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/const)
      - escopo da variavel
-     - hosting
+     - [Hosting](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
      - variaveis globais
    - Tipos
-     - primitivos
-       - boolean
-       - null
+     - [primitivos](https://developer.mozilla.org/pt-BR/docs/Glossary/Primitive)
+       - [boolean](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+       - [null](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/null)
        - undefined
        - number
          - Separador Numérico 
@@ -41,7 +41,8 @@
      - Aritiméticos
      - Comparação
      - Tenário
-     - Coalecencia 
+     - [Atribuição de coalescência nula](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_assignment)
+     - [Operador de coalescência nula](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing)
    - Decisões
      - if
      - else
