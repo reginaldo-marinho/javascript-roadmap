@@ -8,7 +8,13 @@
      - [minify-js](https://minify-js.com/)
 
 3. História do Javascript
-4. Core
+4. Compilador
+   - Just in Time
+5. Adicionando Javascrip
+   - [interno](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#javascript_interno)
+   - [externo](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#javascript_externo)
+   - [Estratégias para carregamento de Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrat%C3%A9gias_para_o_carregamento_de_scripts)
+6. Core
    - [Comentários](https://www.w3schools.com/js/js_comments.asp)
    - Variaveis
      - [var](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var)
