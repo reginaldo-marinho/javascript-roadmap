@@ -30,10 +30,12 @@
      - [primitivos](https://developer.mozilla.org/pt-BR/docs/Glossary/Primitive)
        - [boolean](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
        - [null](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/null)
-       - undefined
+       - [undefined](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/undefined)
        - number
+         - [objeto Number](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Number)
          - Separador Numérico 
        - string
+         - [objeto String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String)
        - symbol
      - Objeto
    - Valores avaliados como falso
@@ -42,7 +44,7 @@
      - null
      - NaN
      - String Vazia
-   - Valores Primitivos e Valores por Referência 
+   - [Valores Primitivos e Valores por Referência](https://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value) 
    - Operadores
      - Atribuição
      - Atribuição Lógicos
