@@ -7,6 +7,9 @@
    - Minificador
      - [minify-js](https://minify-js.com/)
 
+   - Outros
+     - [cases](https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/#snake-case)
+     - [arredondamento para moeda brasileira](https://edu.gcfglobal.org/pt/os-numeros-decimais/dinheiro/1/)
 3. História do Javascript
 4. Compilador
    - Just in Time
