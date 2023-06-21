@@ -119,7 +119,7 @@
      - throw
      - Objetos de erros
    - Funções
-     - primeira classe
+     - [primeira classe](https://developer.mozilla.org/pt-BR/docs/Glossary/First-class_Function)
      - function
      - Estrutura das funções
      - return
