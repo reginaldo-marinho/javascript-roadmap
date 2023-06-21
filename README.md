@@ -13,11 +13,14 @@
 3. História do Javascript
 4. Compilador
    - Just in Time
-5. Adicionando Javascrip
+5. Debugar  
+   - [debugger](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger)
+   - [Breakpoint]()
+6. Adicionando Javascrip
    - [interno](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#javascript_interno)
    - [externo](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#javascript_externo)
    - [Estratégias para carregamento de Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#estrat%C3%A9gias_para_o_carregamento_de_scripts)
-6. Core
+7. Core
    - [Comentários](https://www.w3schools.com/js/js_comments.asp)
    - Variaveis
      - [var](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/var)
@@ -120,22 +123,21 @@
      - Objetos de erros
    - Funções
      - [primeira classe](https://developer.mozilla.org/pt-BR/docs/Glossary/First-class_Function)
-     - function
+     - [function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
      - Estrutura das funções
-     - return
-     - criação de funções
+     - [return](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return)
+     - [funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions)
        - funções nomeadas
        - funções anônimas
        - o construtor Function 
        - diferença entre as três criações 
+     - [Função de Seta](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
      - função existe? operador typeof
-     - Recursivas 
-     - window.noFunc
-     - parametros default
+     - [Recursivas](https://developer.mozilla.org/pt-BR/docs/Glossary/Recursion) 
+     - [parametros default](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
      - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-     - =>
-     - get
-     - set
+     - [get](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/get)
+     - [set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/set)
      - [Modo Estrito "use strict"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
      - [Callbacks](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
      - [IIFES](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
