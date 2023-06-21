@@ -132,13 +132,13 @@
      - Recursivas 
      - window.noFunc
      - parametros default
-     - Closures 
+     - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
      - =>
      - get
      - set
-     - Modo Estrito "use strict"
-     - Callbacks
-     - IIFES   
+     - [Modo Estrito "use strict"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+     - [Callbacks](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+     - [IIFES](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 4. JSON
 5. DOM
    - Eventos
